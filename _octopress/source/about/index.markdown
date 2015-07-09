@@ -13,7 +13,7 @@ php.js is a resource that offers community-built JavaScript alternatives to PHP 
 
 **Why on earth would you port php to js?**
 
- - to see if we can
+ll
  - to learn JavaScript
  - to help others learn JavaScript
  - to see how php scripts perform with V8 strapped on their backs
